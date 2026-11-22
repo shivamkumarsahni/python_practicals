@@ -3,8 +3,8 @@
 # Object Oriented Programming Using Python
 **Name:** Shivam kumar sahni  
 **Course:** B.Sc. (Hons.) Computer Science  
-**Semester:** I
-**Roll No.:** 26570054
+**Semester:** I        
+**Roll No.:** 26570054     
 **Subject:** Object Oriented Programming using Python
 
 ## Practical List
